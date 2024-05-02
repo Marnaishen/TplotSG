@@ -1,5 +1,6 @@
 
 *.h
+secrets.h
 ESP_IoT.ino/secrets.h
 /ESP_IoT.ino
 ESP_IoT.ino/secrets.h
