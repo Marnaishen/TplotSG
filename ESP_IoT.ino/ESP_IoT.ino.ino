@@ -1,6 +1,6 @@
 void setup() {
   // put your setup code here, to run once:
-salut à tous c'est saminou 85 !
+salut à tous c'est saminou 85
 
 }
 
